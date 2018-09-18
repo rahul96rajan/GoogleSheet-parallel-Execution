@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1977" started-at="2018-09-18T04:58:50Z" finished-at="2018-09-18T04:58:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1977" started-at="2018-09-18T04:58:50Z" finished-at="2018-09-18T04:58:52Z">
+      <class name="com.pratise.googleParallel.tests.TestGoogleSheetsRead">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pratise.googleParallel.tests.TestGoogleSheetsRead@7cd62f43]" name="setUp" is-config="true" duration-ms="20" started-at="2018-09-18T04:58:50Z" finished-at="2018-09-18T04:58:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_01_testGetAndPrintAllData()[pri:0, instance:com.pratise.googleParallel.tests.TestGoogleSheetsRead@7cd62f43]" name="Test_01_testGetAndPrintAllData" duration-ms="1917" started-at="2018-09-18T04:58:50Z" finished-at="2018-09-18T04:58:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01_testGetAndPrintAllData -->
+      </class> <!-- com.pratise.googleParallel.tests.TestGoogleSheetsRead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
